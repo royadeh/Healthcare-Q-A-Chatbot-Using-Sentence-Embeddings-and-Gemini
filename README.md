@@ -33,7 +33,7 @@ See a sample output of the chatbot here:
 - sentence-transformers
 - PyTorch
 - OpenAI / Gemini API access
-- Other dependencies listed in `requirements.txt`
+
 
 ## Usage
 
