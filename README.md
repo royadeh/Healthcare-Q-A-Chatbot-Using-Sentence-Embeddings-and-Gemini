@@ -21,11 +21,6 @@ This project is a Patient Education Chatbot that uses sentence embeddings to fin
 4. Gemini AI model generates a friendly summary using these top resources.
 5. The chatbot interacts in a loop until the user types `'exit'`.
 
-## Screenshot
-
-See a sample output of the chatbot here:
-
-[Sample Output Screenshot](https://github.com/royadeh/Healthcare-Q-A-Chatbot-Using-Sentence-Embeddings-and-Gemini/blob/main/Q%26A.png)
 
 ## Requirements
 
